@@ -1,0 +1,7 @@
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\expoente\bin\Debug\expoente.exe.config
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\expoente\bin\Debug\expoente.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\expoente\bin\Debug\expoente.pdb
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\expoente\obj\Debug\expoente.csprojAssemblyReference.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\expoente\obj\Debug\expoente.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\expoente\obj\Debug\expoente.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\expoente\obj\Debug\expoente.pdb
